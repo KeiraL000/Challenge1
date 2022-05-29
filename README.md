@@ -1,5 +1,5 @@
 # Horiseon Website
-This is my first challenge fixing some errors with the code of the Horiseon website.
+This is my first challenge fixing some errors with the code of the Horiseon website. In this challenge I focused on finding errors along with cleaning up the code.
 
 ## Things done
 A couple things I have updated with this code is...
